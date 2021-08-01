@@ -8,14 +8,14 @@
 
   <p align="center">
   <a href="#objective">Objective</a> •
-  <a href="#technologies">Technologies</a> • 
-  <a href="#usage">Usage</a> • 
-  <a href="#contribution">Contributions</a> • 
-  <a href="#author">Author</a> • 
+  <a href="#technologies">Technologies</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#contribution">Contributions</a> •
+  <a href="#author">Author</a> •
   <a href="#license">License</a>
   </p>
 
-  <h4 align="center"> 
+  <h4 align="center">
     🎨 Project alias
   </h4>
 
@@ -47,7 +47,7 @@
 
   <h2 id="license"> 📝 License </h2>
 
-  - [License File](./LICENSE.md)
+  - [License File](./LICENSE)
 
 </details>
 
@@ -58,14 +58,14 @@
 
   <p align="center">
   <a href="#objective">Objetivos</a> •
-  <a href="#technologies">Tecnologias</a> • 
-  <a href="#usage">Como usar?</a> • 
-  <a href="#contribution">Contribuições</a> • 
-  <a href="#author">Autor</a> • 
+  <a href="#technologies">Tecnologias</a> •
+  <a href="#usage">Como usar?</a> •
+  <a href="#contribution">Contribuições</a> •
+  <a href="#author">Autor</a> •
   <a href="#license">Licença</a>
   </p>
 
-  <h4 align="center"> 
+  <h4 align="center">
     🎨 Pseudônimo do projeto
   </h4>
 
@@ -80,7 +80,7 @@
   - [Name Tech](UrlForTheTech)
 
   <h2 id="usage" > 👷 Como usar? </h2>
-  
+
   - Tecnologias necessárias para rodar localmente.
 
   ```bash
