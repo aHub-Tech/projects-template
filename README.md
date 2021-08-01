@@ -57,29 +57,29 @@
   <p align="center"> Informações do Projeto - Hub Tech </p>
 
   <p align="center">
-  <a href="#objective">Objetivos</a> •
-  <a href="#technologies">Tecnologias</a> •
-  <a href="#usage">Como usar?</a> •
-  <a href="#contribution">Contribuições</a> •
-  <a href="#author">Autor</a> •
-  <a href="#license">Licença</a>
+  <a href="#objetivos">Objetivos</a> •
+  <a href="#tecnologia">Tecnologias</a> •
+  <a href="#usos">Como usar?</a> •
+  <a href="#contribuicao">Contribuições</a> •
+  <a href="#autor">Autor</a> •
+  <a href="#licenca">Licença</a>
   </p>
 
   <h4 align="center">
     🎨 Pseudônimo do projeto
   </h4>
 
-  <h2 id="objective" > 🎯 Objetivos </h2>
+  <h2 id="objetivos" > 🎯 Objetivos </h2>
 
   Uma breve descrição sobre o projeto e como ele funciona
 
-  <h2 id="technologies"> 🛠 Tecnologias </h2>
+  <h2 id="tecnologia"> 🛠 Tecnologias </h2>
 
   As ferramentas utilizadas na construção do projeto foram:
 
   - [Name Tech](UrlForTheTech)
 
-  <h2 id="usage" > 👷 Como usar? </h2>
+  <h2 id="usos" > 👷 Como usar? </h2>
 
   - Tecnologias necessárias para rodar localmente.
 
@@ -87,16 +87,16 @@
   # Comandos usados para iniciar o projeto.
   ```
 
-  <h2 id="contribution"> 🤝 Contribuições </h2>
+  <h2 id="contribuicao"> 🤝 Contribuições </h2>
 
   - [Arquivo de Contribuição](./CONTRIBUTING.md)
 
 
-  <h2 id="author"> 💻 Autor </h2>
+  <h2 id="autor"> 💻 Autor </h2>
 
   By Name ❤
 
-  <h2 id="license"> 📝 Licença </h2>
+  <h2 id="licenca"> 📝 Licença </h2>
 
   - [Arquivo de Licença](./LICENSE.md)
 </details>
