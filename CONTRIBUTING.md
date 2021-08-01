@@ -67,7 +67,7 @@ This document was adapted from the open-source contribution guidelines for [Face
 
 </details>
 
-<details>
+<details open>
 
   <summary>🇧🇷 Versão em português</summary>
 
