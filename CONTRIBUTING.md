@@ -3,6 +3,8 @@
 <details>
   <summary>🇺🇸 English version</summary>
 
+Contributing to open-source is like joining a stranger's party. Before jumping in with your own suggestions, start by learning how to read the room. This increases the chances that your ideas are noticed and heard. Every community is different, so start by familiarizing yourself with people, documents, tools, ways of working, and so on.
+
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
 - Reporting a bug
@@ -71,13 +73,15 @@ This document was adapted from the open-source contribution guidelines for [Face
 
   <summary>🇧🇷 Versão em português</summary>
 
-Nós adoraríamos sua sugestão! Queremos deixar a contribuição para este projeto assim fácil quanto possível, independente de onde ela seja:
+Lembre-se: contribuir para novos projetos é que nem participar de uma festa com pessoas que você não conhece, então sugerimos que primeiro você se familiarize com as pessoas (contribuidores e mantenedores), as documentações, ferramentas e os métodos de trabalho que estão sendo utilizados.
 
-- Reportando um bug
-- Discutindo o estado atual do código
-- Submetendo uma correção
-- Propondo novas funcionalidades
-- Ser um mantenedor
+Nós adoraríamos sua sugestão! Queremos facilitar o processo para que você possa contribuir para este projeto da forma mais fácil e objetiva o possível, independente de qual seja sua contribuição. Sugerimos que você:
+
+- Reporte um bug
+- Discuta o estado atual de um código
+- Submeta uma correção
+- Proponha novas funcionalidades
+- Se torne um mantenedor
 
 ## Nós usamos o Github para desenvolver
 
