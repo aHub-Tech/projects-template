@@ -15,10 +15,6 @@
   <a href="#license">License</a>
   </p>
 
-  <h4 align="center">
-    🎨 Project alias
-  </h4>
-
   <h2 id="objective" > 🎯 Objectives </h2>
 
   A brief description about the project and how the project works
@@ -64,10 +60,6 @@
   <a href="#autor">Autor</a> •
   <a href="#licenca">Licença</a>
   </p>
-
-  <h4 align="center">
-    🎨 Pseudônimo do projeto
-  </h4>
 
   <h2 id="objetivos" > 🎯 Objetivos </h2>
 
