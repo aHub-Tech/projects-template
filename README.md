@@ -39,7 +39,7 @@
 
   <h2 id="author"> 💻 Author </h2>
 
-  By Name ❤
+  Made with ❤ by [Hub Tech](https://ahub.tech)
 
   <h2 id="license"> 📝 License </h2>
 
@@ -86,7 +86,7 @@
 
   <h2 id="autor"> 💻 Autor </h2>
 
-  By Name ❤
+  Feito com ❤ pela [Hub Tech](https://ahub.tech)
 
   <h2 id="licenca"> 📝 Licença </h2>
 
